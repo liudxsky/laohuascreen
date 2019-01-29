@@ -10,32 +10,35 @@
 //创建画面S_password的命令索引ID
 #define  _SCREEN_S_PASSWORD                                                    3
 
+//创建画面S_password2的命令索引ID
+#define  _SCREEN_S_PASSWORD2                                                   4
+
 //创建画面S_PID的命令索引ID
-#define  _SCREEN_S_PID                                                         4
+#define  _SCREEN_S_PID                                                         5
 
 //创建画面S_Menu的命令索引ID
-#define  _SCREEN_S_MENU                                                        5
+#define  _SCREEN_S_MENU                                                        6
 
 //创建画面S_recoverpassword的命令索引ID
-#define  _SCREEN_S_RECOVERPASSWORD                                             6
+#define  _SCREEN_S_RECOVERPASSWORD                                             7
 
 //创建画面S_door_open的命令索引ID
-#define  _SCREEN_S_DOOR_OPEN                                                   7
+#define  _SCREEN_S_DOOR_OPEN                                                   8
 
 //创建画面S_time的命令索引ID
-#define  _SCREEN_S_TIME                                                        8
+#define  _SCREEN_S_TIME                                                        9
 
 //创建画面S_wrong_password的命令索引ID
-#define  _SCREEN_S_WRONG_PASSWORD                                              9
+#define  _SCREEN_S_WRONG_PASSWORD                                             10
 
 //创建画面S_invalid_setting的命令索引ID
-#define  _SCREEN_S_INVALID_SETTING                                            10
+#define  _SCREEN_S_INVALID_SETTING                                            11
 
 //创建画面S_main的命令索引ID
-#define  _SCREEN_S_MAIN                                                       11
+#define  _SCREEN_S_MAIN                                                       12
 
 //创建画面S_Adjust的命令索引ID
-#define  _SCREEN_S_ADJUST                                                     12
+#define  _SCREEN_S_ADJUST                                                     13
 
 //画面keyboard中图片Image1使用的图片
 #define  _IMG_KEYBOARD_IMAGE1                                                  0
@@ -146,6 +149,11 @@
 #define  _IMG_S_PASSWORD_IMAGE1                                                4
 
 #define  _TXT_DIS__S_PASSWORD_TEXT_DISPLAY1                                    2
+
+//画面S_password2中图片Image1使用的图片
+#define  _IMG_S_PASSWORD2_IMAGE1                                               4
+
+#define  _TXT_DIS__S_PASSWORD2_TEXT_DISPLAY1                                   2
 
 //画面S_PID中图片Image1使用的图片
 #define  _IMG_S_PID_IMAGE1                                                     5

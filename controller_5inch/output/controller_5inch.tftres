@@ -14,6 +14,7 @@
         <page name="S_invalid_setting" id="11" />
         <page name="S_main" id="12" />
         <page name="S_Adjust" id="13" />
+        <page name="E_Main" id="14" />
     </pages>
     <images>
         <image id="0" url="d:\stm32_laohua\laohuaxiang_screen\laohuascreen\controller_5inch\Images\keyboard_big.png" width="320" height="246" crop="0" effect_left="0" effect_top="0" effect_width="320" effect_height="246" size="157440" />
@@ -51,6 +52,10 @@
         <image id="32" url="d:\stm32_laohua\laohuaxiang_screen\laohuascreen\controller_5inch\Images\icon_ar2.ICON" width="43" height="30" crop="0" effect_left="0" effect_top="0" effect_width="43" effect_height="30" size="5160" />
         <image id="33" url="d:\stm32_laohua\laohuaxiang_screen\laohuascreen\controller_5inch\Images\icon_fr.ICON" width="43" height="30" crop="0" effect_left="0" effect_top="0" effect_width="43" effect_height="30" size="5160" />
         <image id="34" url="d:\stm32_laohua\laohuaxiang_screen\laohuascreen\controller_5inch\Images\controller_commissioning.png" width="800" height="480" crop="0" effect_left="0" effect_top="0" effect_width="800" effect_height="480" size="768000" />
+        <image id="35" url="d:\stm32_laohua\laohuaxiang_screen\laohuascreen\controller_5inch\Images\controller_screens_main_empty_en.png" width="800" height="480" crop="0" effect_left="0" effect_top="0" effect_width="800" effect_height="480" size="768000" />
+        <image id="36" url="d:\stm32_laohua\laohuaxiang_screen\laohuascreen\controller_5inch\Images\icon_rack.ICON" width="49" height="58" crop="0" effect_left="0" effect_top="0" effect_width="49" effect_height="58" size="11368" />
+        <image id="37" url="d:\stm32_laohua\laohuaxiang_screen\laohuascreen\controller_5inch\Images\icon_fault.ICON" width="46" height="37" crop="0" effect_left="0" effect_top="0" effect_width="46" effect_height="37" size="6808" />
+        <image id="38" url="d:\stm32_laohua\laohuaxiang_screen\laohuascreen\controller_5inch\Images\icon_rr.ICON" width="43" height="30" crop="0" effect_left="0" effect_top="0" effect_width="43" effect_height="30" size="5160" />
     </images>
     <waves />
 </Resource>

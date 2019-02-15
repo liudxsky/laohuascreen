@@ -40,6 +40,9 @@
 //创建画面S_Adjust的命令索引ID
 #define  _SCREEN_S_ADJUST                                                     13
 
+//创建画面E_Main的命令索引ID
+#define  _SCREEN_E_MAIN                                                       14
+
 //画面keyboard中图片Image1使用的图片
 #define  _IMG_KEYBOARD_IMAGE1                                                  0
 
@@ -441,4 +444,120 @@
 #define  _BTN_S_ADJUST_BUTTON2                                                10
 
 #define  _BTN_S_ADJUST_BUTTON3                                                11
+
+//画面E_Main中图片Image1使用的图片
+#define  _IMG_E_MAIN_IMAGE1                                                   35
+
+//画面E_Main中动画控件Icon1使用的图片
+#define  _IMG_E_MAIN_ICON1                                                    20
+
+#define  _ANIMATION_E_MAIN_ICON1                                               2
+
+//画面E_Main中动画控件Icon2使用的图片
+#define  _IMG_E_MAIN_ICON2                                                    21
+
+#define  _ANIMATION_E_MAIN_ICON2                                               3
+
+//画面E_Main中动画控件Icon3使用的图片
+#define  _IMG_E_MAIN_ICON3                                                    22
+
+#define  _ANIMATION_E_MAIN_ICON3                                               4
+
+//画面E_Main中动画控件Icon4使用的图片
+#define  _IMG_E_MAIN_ICON4                                                    23
+
+#define  _ANIMATION_E_MAIN_ICON4                                               5
+
+//画面E_Main中动画控件Icon5使用的图片
+#define  _IMG_E_MAIN_ICON5                                                    24
+
+#define  _ANIMATION_E_MAIN_ICON5                                               6
+
+//画面E_Main中动画控件Icon6使用的图片
+#define  _IMG_E_MAIN_ICON6                                                    25
+
+#define  _ANIMATION_E_MAIN_ICON6                                               7
+
+//画面E_Main中动画控件Icon7使用的图片
+#define  _IMG_E_MAIN_ICON7                                                    26
+
+#define  _ANIMATION_E_MAIN_ICON7                                               8
+
+//画面E_Main中动画控件Icon8使用的图片
+#define  _IMG_E_MAIN_ICON8                                                    36
+
+#define  _ANIMATION_E_MAIN_ICON8                                               9
+
+//画面E_Main中动画控件Icon9使用的图片
+#define  _IMG_E_MAIN_ICON9                                                    28
+
+#define  _ANIMATION_E_MAIN_ICON9                                              10
+
+//画面E_Main中动画控件Icon10使用的图片
+#define  _IMG_E_MAIN_ICON10                                                   37
+
+#define  _ANIMATION_E_MAIN_ICON10                                             11
+
+//画面E_Main中动画控件Icon11使用的图片
+#define  _IMG_E_MAIN_ICON11                                                   31
+
+#define  _ANIMATION_E_MAIN_ICON11                                             12
+
+//画面E_Main中动画控件Icon12使用的图片
+#define  _IMG_E_MAIN_ICON12                                                   32
+
+#define  _ANIMATION_E_MAIN_ICON12                                             13
+
+//画面E_Main中动画控件Icon13使用的图片
+#define  _IMG_E_MAIN_ICON13                                                   33
+
+#define  _ANIMATION_E_MAIN_ICON13                                             14
+
+//画面E_Main中动画控件Icon14使用的图片
+#define  _IMG_E_MAIN_ICON14                                                   38
+
+#define  _ANIMATION_E_MAIN_ICON14                                             15
+
+#define  _BTN_E_MAIN_BUTTON1                                                  16
+
+#define  _BTN_E_MAIN_BUTTON2                                                  17
+
+#define  _BTN_E_MAIN_BUTTON3                                                  18
+
+#define  _BTN_E_MAIN_BUTTON4                                                  19
+
+#define  _BTN_E_MAIN_BUTTON5                                                  20
+
+#define  _TXT_DIS__E_MAIN_TEXT_DISPLAY1                                       21
+
+#define  _TXT_DIS__E_MAIN_TEXT_DISPLAY2                                       22
+
+#define  _TXT_DIS__E_MAIN_TEXT_DISPLAY3                                       23
+
+#define  _TXT_DIS__E_MAIN_TEXT_DISPLAY4                                       24
+
+#define  _TXT_DIS__E_MAIN_TEXT_DISPLAY5                                       25
+
+#define  _TXT_DIS__E_MAIN_TEXT_DISPLAY6                                       26
+
+#define  _TXT_DIS__E_MAIN_TEXT_DISPLAY7                                       27
+
+#define  _TXT_DIS__E_MAIN_TEXT_DISPLAY8                                       28
+
+#define  _TXT_DIS__E_MAIN_TEXT_DISPLAY9                                       29
+
+#define  _TXT_DIS__E_MAIN_TEXT_DISPLAY10                                      30
+
+#define  _TXT_DIS__E_MAIN_TEXT_DISPLAY11                                      31
+
+#define  _TXT_DIS__E_MAIN_TEXT_DISPLAY12                                      32
+
+//画面E_Main中动画控件Icon15使用的图片
+#define  _IMG_E_MAIN_ICON15                                                   29
+
+#define  _ANIMATION_E_MAIN_ICON15                                             33
+
+#define  _TXT_DIS__E_MAIN_TEXT_DISPLAY13                                      34
+
+#define  _RTC_E_MAIN_RTC1                                                     35
 

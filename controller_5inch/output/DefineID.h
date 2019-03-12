@@ -4,35 +4,35 @@
 //创建画面S_gate_editing的命令索引ID
 #define  _SCREEN_S_GATE_EDITING                                                1
 
-//创建画面S_faults的命令索引ID
-#define  _SCREEN_S_FAULTS                                                      2
-
 //创建画面S_password的命令索引ID
-#define  _SCREEN_S_PASSWORD                                                    3
+#define  _SCREEN_S_PASSWORD                                                    2
 
 //创建画面S_password2的命令索引ID
-#define  _SCREEN_S_PASSWORD2                                                   4
+#define  _SCREEN_S_PASSWORD2                                                   3
 
 //创建画面S_PID的命令索引ID
-#define  _SCREEN_S_PID                                                         5
+#define  _SCREEN_S_PID                                                         4
 
 //创建画面S_Menu的命令索引ID
-#define  _SCREEN_S_MENU                                                        6
+#define  _SCREEN_S_MENU                                                        5
 
 //创建画面S_recoverpassword的命令索引ID
-#define  _SCREEN_S_RECOVERPASSWORD                                             7
+#define  _SCREEN_S_RECOVERPASSWORD                                             6
 
 //创建画面S_door_open的命令索引ID
-#define  _SCREEN_S_DOOR_OPEN                                                   8
+#define  _SCREEN_S_DOOR_OPEN                                                   7
 
 //创建画面S_time的命令索引ID
-#define  _SCREEN_S_TIME                                                        9
+#define  _SCREEN_S_TIME                                                        8
 
 //创建画面S_wrong_password的命令索引ID
-#define  _SCREEN_S_WRONG_PASSWORD                                             10
+#define  _SCREEN_S_WRONG_PASSWORD                                              9
 
 //创建画面S_invalid_setting的命令索引ID
-#define  _SCREEN_S_INVALID_SETTING                                            11
+#define  _SCREEN_S_INVALID_SETTING                                            10
+
+//创建画面S_invalid_setting2的命令索引ID
+#define  _SCREEN_S_INVALID_SETTING2                                           11
 
 //创建画面S_main的命令索引ID
 #define  _SCREEN_S_MAIN                                                       12
@@ -125,41 +125,18 @@
 
 #define  _BTN_S_GATE_EDITING_BUTTON1                                          23
 
-//画面S_faults中图片Image1使用的图片
-#define  _IMG_S_FAULTS_IMAGE1                                                  2
-
-//画面S_faults中动画控件Icon1使用的图片
-#define  _IMG_S_FAULTS_ICON1                                                   3
-
-#define  _ANIMATION_S_FAULTS_ICON1                                             2
-
-//画面S_faults中动画控件Icon2使用的图片
-#define  _IMG_S_FAULTS_ICON2                                                   3
-
-#define  _ANIMATION_S_FAULTS_ICON2                                             3
-
-//画面S_faults中动画控件Icon3使用的图片
-#define  _IMG_S_FAULTS_ICON3                                                   3
-
-#define  _ANIMATION_S_FAULTS_ICON3                                             4
-
-//画面S_faults中动画控件Icon4使用的图片
-#define  _IMG_S_FAULTS_ICON4                                                   3
-
-#define  _ANIMATION_S_FAULTS_ICON4                                             5
-
 //画面S_password中图片Image1使用的图片
-#define  _IMG_S_PASSWORD_IMAGE1                                                4
+#define  _IMG_S_PASSWORD_IMAGE1                                                2
 
 #define  _TXT_DIS__S_PASSWORD_TEXT_DISPLAY1                                    2
 
 //画面S_password2中图片Image1使用的图片
-#define  _IMG_S_PASSWORD2_IMAGE1                                               4
+#define  _IMG_S_PASSWORD2_IMAGE1                                               2
 
 #define  _TXT_DIS__S_PASSWORD2_TEXT_DISPLAY1                                   2
 
 //画面S_PID中图片Image1使用的图片
-#define  _IMG_S_PID_IMAGE1                                                     5
+#define  _IMG_S_PID_IMAGE1                                                     3
 
 #define  _BTN_S_PID_BUTTON1                                                    2
 
@@ -172,7 +149,7 @@
 #define  _TXT_DIS__S_PID_TEXT_DISPLAY3                                         6
 
 //画面S_Menu中图片Image1使用的图片
-#define  _IMG_S_MENU_IMAGE1                                                    6
+#define  _IMG_S_MENU_IMAGE1                                                    4
 
 #define  _BTN_S_MENU_BUTTON1                                                   2
 
@@ -199,53 +176,53 @@
 #define  _TXT_DIS__S_MENU_TEXT_DISPLAY11                                      13
 
 //画面S_Menu中动画控件Icon1使用的图片
-#define  _IMG_S_MENU_ICON1                                                     7
+#define  _IMG_S_MENU_ICON1                                                     5
 
 #define  _ANIMATION_S_MENU_ICON1                                              14
 
 //画面S_Menu中动画控件Icon2使用的图片
-#define  _IMG_S_MENU_ICON2                                                     8
+#define  _IMG_S_MENU_ICON2                                                     6
 
 #define  _ANIMATION_S_MENU_ICON2                                              15
 
 //画面S_Menu中动画控件Icon3使用的图片
-#define  _IMG_S_MENU_ICON3                                                     9
+#define  _IMG_S_MENU_ICON3                                                     7
 
 #define  _ANIMATION_S_MENU_ICON3                                              16
 
 //画面S_Menu中动画控件Icon4使用的图片
-#define  _IMG_S_MENU_ICON4                                                    10
+#define  _IMG_S_MENU_ICON4                                                     8
 
 #define  _ANIMATION_S_MENU_ICON4                                              17
 
 #define  _TXT_DIS__S_MENU_TEXT_DISPLAY12                                      18
 
 //画面S_Menu中动画控件Icon5使用的图片
-#define  _IMG_S_MENU_ICON5                                                    11
+#define  _IMG_S_MENU_ICON5                                                     9
 
 #define  _ANIMATION_S_MENU_ICON5                                              19
 
 //画面S_Menu中动画控件Icon6使用的图片
-#define  _IMG_S_MENU_ICON6                                                    12
+#define  _IMG_S_MENU_ICON6                                                    10
 
 #define  _ANIMATION_S_MENU_ICON6                                              20
 
 #define  _BTN_S_MENU_BUTTON2                                                  21
 
 //画面S_recoverpassword中图片Image1使用的图片
-#define  _IMG_S_RECOVERPASSWORD_IMAGE1                                        13
+#define  _IMG_S_RECOVERPASSWORD_IMAGE1                                        11
 
 #define  _TXT_DIS__S_RECOVERPASSWORD_TEXT_DISPLAY1                             2
 
 //画面S_door_open中图片Image1使用的图片
-#define  _IMG_S_DOOR_OPEN_IMAGE1                                              14
+#define  _IMG_S_DOOR_OPEN_IMAGE1                                              12
 
 #define  _RECORD_S_DOOR_OPEN_RECORD1                                           2
 
 #define  _BTN_S_DOOR_OPEN_BUTTON1                                              3
 
 //画面S_time中图片Image1使用的图片
-#define  _IMG_S_TIME_IMAGE1                                                   15
+#define  _IMG_S_TIME_IMAGE1                                                   13
 
 #define  _TXT_DIS__S_TIME_TEXT_DISPLAY1                                        2
 
@@ -262,127 +239,152 @@
 #define  _BTN_S_TIME_BUTTON2                                                   8
 
 //画面S_wrong_password中图片Image1使用的图片
-#define  _IMG_S_WRONG_PASSWORD_IMAGE1                                         16
+#define  _IMG_S_WRONG_PASSWORD_IMAGE1                                         14
 
 #define  _BTN_S_WRONG_PASSWORD_BUTTON2                                         2
 
 //画面S_invalid_setting中图片Image1使用的图片
-#define  _IMG_S_INVALID_SETTING_IMAGE1                                        17
+#define  _IMG_S_INVALID_SETTING_IMAGE1                                        15
 
 #define  _BTN_S_INVALID_SETTING_BUTTON2                                        9
 
 //画面S_invalid_setting中动画控件Icon1使用的图片
-#define  _IMG_S_INVALID_SETTING_ICON1                                         18
+#define  _IMG_S_INVALID_SETTING_ICON1                                         16
 
 #define  _ANIMATION_S_INVALID_SETTING_ICON1                                    2
 
 //画面S_invalid_setting中动画控件Icon2使用的图片
-#define  _IMG_S_INVALID_SETTING_ICON2                                         18
+#define  _IMG_S_INVALID_SETTING_ICON2                                         16
 
 #define  _ANIMATION_S_INVALID_SETTING_ICON2                                    3
 
 //画面S_invalid_setting中动画控件Icon3使用的图片
-#define  _IMG_S_INVALID_SETTING_ICON3                                         18
+#define  _IMG_S_INVALID_SETTING_ICON3                                         16
 
 #define  _ANIMATION_S_INVALID_SETTING_ICON3                                    4
 
 //画面S_invalid_setting中动画控件Icon4使用的图片
-#define  _IMG_S_INVALID_SETTING_ICON4                                         18
+#define  _IMG_S_INVALID_SETTING_ICON4                                         16
 
 #define  _ANIMATION_S_INVALID_SETTING_ICON4                                    5
 
 //画面S_invalid_setting中动画控件Icon5使用的图片
-#define  _IMG_S_INVALID_SETTING_ICON5                                         18
+#define  _IMG_S_INVALID_SETTING_ICON5                                         16
 
 #define  _ANIMATION_S_INVALID_SETTING_ICON5                                    6
 
 //画面S_invalid_setting中动画控件Icon6使用的图片
-#define  _IMG_S_INVALID_SETTING_ICON6                                         18
+#define  _IMG_S_INVALID_SETTING_ICON6                                         16
 
 #define  _ANIMATION_S_INVALID_SETTING_ICON6                                    7
 
 //画面S_invalid_setting中动画控件Icon7使用的图片
-#define  _IMG_S_INVALID_SETTING_ICON7                                         18
+#define  _IMG_S_INVALID_SETTING_ICON7                                         16
 
 #define  _ANIMATION_S_INVALID_SETTING_ICON7                                    8
 
+//画面S_invalid_setting2的背景图片
+#define  _IMG_S_INVALID_SETTING2                                              17
+
+#define  _BTN_S_INVALID_SETTING2_BUTTON2                                       2
+
+//画面S_invalid_setting2中动画控件Icon6使用的图片
+#define  _IMG_S_INVALID_SETTING2_ICON6                                        16
+
+#define  _ANIMATION_S_INVALID_SETTING2_ICON6                                   7
+
+//画面S_invalid_setting2中动画控件Icon1使用的图片
+#define  _IMG_S_INVALID_SETTING2_ICON1                                        16
+
+#define  _ANIMATION_S_INVALID_SETTING2_ICON1                                   1
+
+//画面S_invalid_setting2中动画控件Icon2使用的图片
+#define  _IMG_S_INVALID_SETTING2_ICON2                                        16
+
+#define  _ANIMATION_S_INVALID_SETTING2_ICON2                                   3
+
+//画面S_invalid_setting2中动画控件Icon3使用的图片
+#define  _IMG_S_INVALID_SETTING2_ICON3                                        16
+
+#define  _ANIMATION_S_INVALID_SETTING2_ICON3                                   4
+
 //画面S_main中图片Image1使用的图片
-#define  _IMG_S_MAIN_IMAGE1                                                   19
+#define  _IMG_S_MAIN_IMAGE1                                                   18
 
 #define  _TXT_DIS__S_MAIN_TEXT_DISPLAY10                                      32
 
 //画面S_main中动画控件Icon1使用的图片
-#define  _IMG_S_MAIN_ICON1                                                    20
+#define  _IMG_S_MAIN_ICON1                                                    19
 
 #define  _ANIMATION_S_MAIN_ICON1                                               2
 
 //画面S_main中动画控件Icon2使用的图片
-#define  _IMG_S_MAIN_ICON2                                                    21
+#define  _IMG_S_MAIN_ICON2                                                    20
 
 #define  _ANIMATION_S_MAIN_ICON2                                               3
 
 //画面S_main中动画控件Icon3使用的图片
-#define  _IMG_S_MAIN_ICON3                                                    22
+#define  _IMG_S_MAIN_ICON3                                                    21
 
 #define  _ANIMATION_S_MAIN_ICON3                                               4
 
 //画面S_main中动画控件Icon4使用的图片
-#define  _IMG_S_MAIN_ICON4                                                    23
+#define  _IMG_S_MAIN_ICON4                                                    22
 
 #define  _ANIMATION_S_MAIN_ICON4                                               5
 
 //画面S_main中动画控件Icon5使用的图片
-#define  _IMG_S_MAIN_ICON5                                                    24
+#define  _IMG_S_MAIN_ICON5                                                    23
 
 #define  _ANIMATION_S_MAIN_ICON5                                               6
 
 //画面S_main中动画控件Icon6使用的图片
-#define  _IMG_S_MAIN_ICON6                                                    25
+#define  _IMG_S_MAIN_ICON6                                                    24
 
 #define  _ANIMATION_S_MAIN_ICON6                                               7
 
 //画面S_main中动画控件Icon7使用的图片
-#define  _IMG_S_MAIN_ICON7                                                    26
+#define  _IMG_S_MAIN_ICON7                                                    25
 
 #define  _ANIMATION_S_MAIN_ICON7                                               8
 
 //画面S_main中动画控件Icon8使用的图片
-#define  _IMG_S_MAIN_ICON8                                                    27
+#define  _IMG_S_MAIN_ICON8                                                    26
 
 #define  _ANIMATION_S_MAIN_ICON8                                               9
 
 //画面S_main中动画控件Icon9使用的图片
-#define  _IMG_S_MAIN_ICON9                                                    28
+#define  _IMG_S_MAIN_ICON9                                                    27
 
 #define  _ANIMATION_S_MAIN_ICON9                                              10
 
 //画面S_main中动画控件Icon10使用的图片
-#define  _IMG_S_MAIN_ICON10                                                   29
+#define  _IMG_S_MAIN_ICON10                                                   28
 
 #define  _ANIMATION_S_MAIN_ICON10                                             33
 
 //画面S_main中动画控件Icon11使用的图片
-#define  _IMG_S_MAIN_ICON11                                                   30
+#define  _IMG_S_MAIN_ICON11                                                   29
 
 #define  _ANIMATION_S_MAIN_ICON11                                             11
 
 //画面S_main中动画控件Icon12使用的图片
-#define  _IMG_S_MAIN_ICON12                                                   31
+#define  _IMG_S_MAIN_ICON12                                                   30
 
 #define  _ANIMATION_S_MAIN_ICON12                                             12
 
 //画面S_main中动画控件Icon13使用的图片
-#define  _IMG_S_MAIN_ICON13                                                   32
+#define  _IMG_S_MAIN_ICON13                                                   31
 
 #define  _ANIMATION_S_MAIN_ICON13                                             13
 
 //画面S_main中动画控件Icon14使用的图片
-#define  _IMG_S_MAIN_ICON14                                                   33
+#define  _IMG_S_MAIN_ICON14                                                   32
 
 #define  _ANIMATION_S_MAIN_ICON14                                             14
 
 //画面S_main中动画控件Icon15使用的图片
-#define  _IMG_S_MAIN_ICON15                                                   33
+#define  _IMG_S_MAIN_ICON15                                                   32
 
 #define  _ANIMATION_S_MAIN_ICON15                                             15
 
@@ -423,7 +425,7 @@
 #define  _TXT_DIS__S_MAIN_TEXT_DISPLAY13                                      34
 
 //画面S_Adjust中图片Image1使用的图片
-#define  _IMG_S_ADJUST_IMAGE1                                                 34
+#define  _IMG_S_ADJUST_IMAGE1                                                 33
 
 #define  _TXT_DIS__S_ADJUST_TEXT_DISPLAY1                                      2
 
@@ -446,75 +448,75 @@
 #define  _BTN_S_ADJUST_BUTTON3                                                11
 
 //画面E_Main中图片Image1使用的图片
-#define  _IMG_E_MAIN_IMAGE1                                                   35
+#define  _IMG_E_MAIN_IMAGE1                                                   34
 
 //画面E_Main中动画控件Icon1使用的图片
-#define  _IMG_E_MAIN_ICON1                                                    20
+#define  _IMG_E_MAIN_ICON1                                                    19
 
 #define  _ANIMATION_E_MAIN_ICON1                                               2
 
 //画面E_Main中动画控件Icon2使用的图片
-#define  _IMG_E_MAIN_ICON2                                                    21
+#define  _IMG_E_MAIN_ICON2                                                    20
 
 #define  _ANIMATION_E_MAIN_ICON2                                               3
 
 //画面E_Main中动画控件Icon3使用的图片
-#define  _IMG_E_MAIN_ICON3                                                    22
+#define  _IMG_E_MAIN_ICON3                                                    21
 
 #define  _ANIMATION_E_MAIN_ICON3                                               4
 
 //画面E_Main中动画控件Icon4使用的图片
-#define  _IMG_E_MAIN_ICON4                                                    23
+#define  _IMG_E_MAIN_ICON4                                                    22
 
 #define  _ANIMATION_E_MAIN_ICON4                                               5
 
 //画面E_Main中动画控件Icon5使用的图片
-#define  _IMG_E_MAIN_ICON5                                                    24
+#define  _IMG_E_MAIN_ICON5                                                    23
 
 #define  _ANIMATION_E_MAIN_ICON5                                               6
 
 //画面E_Main中动画控件Icon6使用的图片
-#define  _IMG_E_MAIN_ICON6                                                    25
+#define  _IMG_E_MAIN_ICON6                                                    24
 
 #define  _ANIMATION_E_MAIN_ICON6                                               7
 
 //画面E_Main中动画控件Icon7使用的图片
-#define  _IMG_E_MAIN_ICON7                                                    26
+#define  _IMG_E_MAIN_ICON7                                                    25
 
 #define  _ANIMATION_E_MAIN_ICON7                                               8
 
 //画面E_Main中动画控件Icon8使用的图片
-#define  _IMG_E_MAIN_ICON8                                                    36
+#define  _IMG_E_MAIN_ICON8                                                    35
 
 #define  _ANIMATION_E_MAIN_ICON8                                               9
 
 //画面E_Main中动画控件Icon9使用的图片
-#define  _IMG_E_MAIN_ICON9                                                    28
+#define  _IMG_E_MAIN_ICON9                                                    27
 
 #define  _ANIMATION_E_MAIN_ICON9                                              10
 
 //画面E_Main中动画控件Icon10使用的图片
-#define  _IMG_E_MAIN_ICON10                                                   37
+#define  _IMG_E_MAIN_ICON10                                                   36
 
 #define  _ANIMATION_E_MAIN_ICON10                                             11
 
 //画面E_Main中动画控件Icon11使用的图片
-#define  _IMG_E_MAIN_ICON11                                                   31
+#define  _IMG_E_MAIN_ICON11                                                   30
 
 #define  _ANIMATION_E_MAIN_ICON11                                             12
 
 //画面E_Main中动画控件Icon12使用的图片
-#define  _IMG_E_MAIN_ICON12                                                   32
+#define  _IMG_E_MAIN_ICON12                                                   31
 
 #define  _ANIMATION_E_MAIN_ICON12                                             13
 
 //画面E_Main中动画控件Icon13使用的图片
-#define  _IMG_E_MAIN_ICON13                                                   33
+#define  _IMG_E_MAIN_ICON13                                                   32
 
 #define  _ANIMATION_E_MAIN_ICON13                                             14
 
 //画面E_Main中动画控件Icon14使用的图片
-#define  _IMG_E_MAIN_ICON14                                                   38
+#define  _IMG_E_MAIN_ICON14                                                   37
 
 #define  _ANIMATION_E_MAIN_ICON14                                             15
 
@@ -553,7 +555,7 @@
 #define  _TXT_DIS__E_MAIN_TEXT_DISPLAY12                                      32
 
 //画面E_Main中动画控件Icon15使用的图片
-#define  _IMG_E_MAIN_ICON15                                                   29
+#define  _IMG_E_MAIN_ICON15                                                   28
 
 #define  _ANIMATION_E_MAIN_ICON15                                             33
 

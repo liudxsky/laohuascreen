@@ -209,6 +209,18 @@
 
 #define  _BTN_S_MENU_BUTTON2                                                  21
 
+#define  _BTN_S_MENU_BUTTON3                                                  22
+
+#define  _BTN_S_MENU_BUTTON4                                                  23
+
+#define  _BTN_S_MENU_BUTTON5                                                  24
+
+#define  _BTN_S_MENU_BUTTON6                                                  25
+
+#define  _BTN_S_MENU_BUTTON7                                                  26
+
+#define  _BTN_S_MENU_BUTTON8                                                  27
+
 //画面S_recoverpassword中图片Image1使用的图片
 #define  _IMG_S_RECOVERPASSWORD_IMAGE1                                        11
 
@@ -246,7 +258,7 @@
 //画面S_invalid_setting中图片Image1使用的图片
 #define  _IMG_S_INVALID_SETTING_IMAGE1                                        15
 
-#define  _BTN_S_INVALID_SETTING_BUTTON2                                        9
+#define  _BTN_S_INVALID_SETTING_BUTTON2                                       10
 
 //画面S_invalid_setting中动画控件Icon1使用的图片
 #define  _IMG_S_INVALID_SETTING_ICON1                                         16
@@ -283,20 +295,26 @@
 
 #define  _ANIMATION_S_INVALID_SETTING_ICON7                                    8
 
+//画面S_invalid_setting中动画控件Icon8使用的图片
+#define  _IMG_S_INVALID_SETTING_ICON8                                         16
+
+#define  _ANIMATION_S_INVALID_SETTING_ICON8                                    9
+
 //画面S_invalid_setting2的背景图片
 #define  _IMG_S_INVALID_SETTING2                                              17
 
-#define  _BTN_S_INVALID_SETTING2_BUTTON2                                       2
+//画面S_invalid_setting2中图片Image1使用的图片
+#define  _IMG_S_INVALID_SETTING2_IMAGE1                                       17
 
 //画面S_invalid_setting2中动画控件Icon6使用的图片
 #define  _IMG_S_INVALID_SETTING2_ICON6                                        16
 
-#define  _ANIMATION_S_INVALID_SETTING2_ICON6                                   7
+#define  _ANIMATION_S_INVALID_SETTING2_ICON6                                   5
 
 //画面S_invalid_setting2中动画控件Icon1使用的图片
 #define  _IMG_S_INVALID_SETTING2_ICON1                                        16
 
-#define  _ANIMATION_S_INVALID_SETTING2_ICON1                                   1
+#define  _ANIMATION_S_INVALID_SETTING2_ICON1                                   4
 
 //画面S_invalid_setting2中动画控件Icon2使用的图片
 #define  _IMG_S_INVALID_SETTING2_ICON2                                        16
@@ -306,7 +324,9 @@
 //画面S_invalid_setting2中动画控件Icon3使用的图片
 #define  _IMG_S_INVALID_SETTING2_ICON3                                        16
 
-#define  _ANIMATION_S_INVALID_SETTING2_ICON3                                   4
+#define  _ANIMATION_S_INVALID_SETTING2_ICON3                                   2
+
+#define  _BTN_S_INVALID_SETTING2_BUTTON1                                       6
 
 //画面S_main中图片Image1使用的图片
 #define  _IMG_S_MAIN_IMAGE1                                                   18

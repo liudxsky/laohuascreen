@@ -151,6 +151,18 @@
 
 #define  _TXT_DIS__S_MENU_TEXT_DISPLAY8                                       13
 
+#define  _BTN_S_MENU_BUTTON3                                                  22
+
+#define  _BTN_S_MENU_BUTTON4                                                  23
+
+#define  _BTN_S_MENU_BUTTON5                                                  24
+
+#define  _BTN_S_MENU_BUTTON6                                                  25
+
+#define  _BTN_S_MENU_BUTTON7                                                  26
+
+#define  _BTN_S_MENU_BUTTON8                                                  27
+
 //画面S_Shutoff_recovery中图片Image1使用的图片
 #define  _IMG_S_SHUTOFF_RECOVERY_IMAGE1                                        5
 
@@ -181,7 +193,7 @@
 //画面S_wrong_setting中图片Image1使用的图片
 #define  _IMG_S_WRONG_SETTING_IMAGE1                                           8
 
-#define  _BTN_S_WRONG_SETTING_BUTTON2                                          5
+#define  _BTN_S_WRONG_SETTING_BUTTON2                                         10
 
 //画面S_wrong_setting中动画控件Icon1使用的图片
 #define  _IMG_S_WRONG_SETTING_ICON1                                            9
@@ -201,32 +213,42 @@
 //画面S_wrong_setting中动画控件Icon5使用的图片
 #define  _IMG_S_WRONG_SETTING_ICON5                                            9
 
-#define  _ANIMATION_S_WRONG_SETTING_ICON5                                      7
+#define  _ANIMATION_S_WRONG_SETTING_ICON5                                      5
 
 //画面S_wrong_setting中动画控件Icon6使用的图片
 #define  _IMG_S_WRONG_SETTING_ICON6                                            9
 
-#define  _ANIMATION_S_WRONG_SETTING_ICON6                                      8
+#define  _ANIMATION_S_WRONG_SETTING_ICON6                                      6
 
 //画面S_wrong_setting中动画控件Icon7使用的图片
 #define  _IMG_S_WRONG_SETTING_ICON7                                            9
 
-#define  _ANIMATION_S_WRONG_SETTING_ICON7                                      9
+#define  _ANIMATION_S_WRONG_SETTING_ICON7                                      8
+
+//画面S_wrong_setting中动画控件Icon2使用的图片
+#define  _IMG_S_WRONG_SETTING_ICON2                                            9
+
+#define  _ANIMATION_S_WRONG_SETTING_ICON2                                      9
 
 //画面S_wrong_setting2中图片Image1使用的图片
 #define  _IMG_S_WRONG_SETTING2_IMAGE1                                         10
 
-#define  _BTN_S_WRONG_SETTING2_BUTTON1                                         2
-
-//画面S_wrong_setting2中动画控件Icon1使用的图片
-#define  _IMG_S_WRONG_SETTING2_ICON1                                           9
-
-#define  _ANIMATION_S_WRONG_SETTING2_ICON1                                     3
+#define  _BTN_S_WRONG_SETTING2_BUTTON1                                         6
 
 //画面S_wrong_setting2中动画控件Icon2使用的图片
 #define  _IMG_S_WRONG_SETTING2_ICON2                                           9
 
 #define  _ANIMATION_S_WRONG_SETTING2_ICON2                                     4
+
+//画面S_wrong_setting2中动画控件Icon3使用的图片
+#define  _IMG_S_WRONG_SETTING2_ICON3                                           9
+
+#define  _ANIMATION_S_WRONG_SETTING2_ICON3                                     2
+
+//画面S_wrong_setting2中动画控件Icon4使用的图片
+#define  _IMG_S_WRONG_SETTING2_ICON4                                           9
+
+#define  _ANIMATION_S_WRONG_SETTING2_ICON4                                     5
 
 //画面S_main中图片Image1使用的图片
 #define  _IMG_S_MAIN_IMAGE1                                                   11
